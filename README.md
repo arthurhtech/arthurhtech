@@ -30,10 +30,6 @@
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0052CC)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-<br/>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurhtech&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/arthurhtech)
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-henrique-ap-dev)](https://www.linkedin.com/in/arthur-henrique-ap-dev)
