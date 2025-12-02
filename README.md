@@ -1,7 +1,7 @@
 ## Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2024-2026).
-- 💼 Buscando minha **primeira oportunidade de estágio** em desenvolvimento de software.
+- 💼 Buscando **oportunidades** na aréa de **Tecnologia**, com interesse em **Desenvolvimento** e **Análise de Dados**.
 - 🛠️ Focado em **Back-end**, criando APIs e soluções com **Java (Spring)**, **Node.js** e **Python**.
 - 🌱 Aprofundando conhecimentos em **Bancos de Dados** (SQL/NoSQL) e boas práticas de código.
 
